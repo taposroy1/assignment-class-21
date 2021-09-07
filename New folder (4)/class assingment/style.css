@@ -1,0 +1,43 @@
+
+.col2{
+	background-color: #C5D7F2;
+}
+.col3{
+	background-color: #E2E3E5;
+}
+.col4{
+	background-color: #C7DBD2;
+}
+.col5{
+	background-color: #F8D7DA;
+}
+.col6{
+	background-color: #F2E7C3;
+}
+.col7{
+	background-color: #CFF4FC;
+}
+.col9{
+	background-color: #CFE2FF;
+}
+.col10{
+	background-color: #C7DBD2;
+}
+.submit-btn{}
+.color{
+	background-color: #ddd;
+}
+.form-floating > .form-control {
+	padding: 2rem .75rem;
+}
+.seider h5 {
+	position: relative;
+	top: -225px;
+}
+.carousel-caption.d-none.d-md-block p {
+	position: relative;
+	top: -220px;
+}
+.up{
+
+}
